@@ -1,7 +1,7 @@
 /*
 Aula 3 - Lista Linear
 
-São estruturs de dados na qual cada elemento é precedido por um elemento e sucedido por outro
+São estruturas de dados na qual cada elemento é precedido por um elemento e sucedido por outro
 (exceto o primeiro que não um predecessor e o ultimo que não tem um sucessor).
 Os elementos estão em uma determinada ordem (por exemplo, a ordem de inserção ou por uma determinada chave)
 
